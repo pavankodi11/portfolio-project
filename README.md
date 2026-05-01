@@ -49,3 +49,18 @@ strategy — both of which are highly relevant for modern SaaS companies.
 - **Supadata API** — used to extract YouTube transcripts automatically
 - **Git** — used to commit and track every change progressively
 - **GitHub** — used to store and present the full research repository
+
+---
+
+## Playbook / SOP
+A full step-by-step playbook based on the collected research is available here:
+[research/playbook.md](research/playbook.md)
+
+The playbook includes:
+- 5 step process for AI powered SEO content production
+- All recommendations cited with sources
+- Expert disagreements with my own analysis
+- Ideas I rejected and why
+- One original idea not found in any source
+- Honest assessment of the playbook's weaknesses
+- Critical evaluation of the expert list
